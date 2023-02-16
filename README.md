@@ -1,6 +1,8 @@
 # freeCodeCamp - Build 15 JavaScript Projects
 
-[freeCodeCamps](https://www.youtube.com/@freecodecamp) - Vidéo : [Build 15 JavaScript Projects - Vanilla JavaScript Course](https://www.youtube.com/watch?v=3PHXvlpOkf4)
+### Ces 15 projets JavaScript ont été crée à l'aide du tutoriel freeCodeCamp pour apprendre à manipuler le DOM et les élements HTML en JS
+Source : [freeCodeCamps](https://www.youtube.com/@freecodecamp)  
+Vidéo : [Build 15 JavaScript Projects - Vanilla JavaScript Course](https://www.youtube.com/watch?v=3PHXvlpOkf4)
 
 ## Les différents project JS
 
