@@ -21,3 +21,6 @@ Vidéo : [Build 15 JavaScript Projects - Vanilla JavaScript Course](https://www.
 -   [13-paragraph-generator](./13-lorem-ipsum/)
 -   [14-todo-list](./14-grocery-bud/)
 -   [15-slider](./15-slider/)
+
+## Preview
+Lien du [GitHubPages](https://denzaiyy.github.io/freeCodeCamp-15project)
